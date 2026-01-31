@@ -1,0 +1,186 @@
+{
+  "Egypt": {
+    "value": "EG",
+    "method": 5,
+    "governorates": {
+      "Cairo": "Cairo",
+      "Giza": "Giza",
+      "Alexandria": "Alexandria",
+      "Tanta": "Tanta",
+      "Mansoura": "Mansoura",
+      "Zagazig": "Zagazig",
+      "Port Said": "Port Said",
+      "Suez": "Suez",
+      "Damietta": "Damietta",
+      "Ismailia": "Ismailia",
+      "Faiyum": "Faiyum",
+      "Minya": "Minya",
+      "Asyut": "Asyut",
+      "Sohag": "Sohag",
+      "Qena": "Qena",
+      "Luxor": "Luxor",
+      "Aswan": "Aswan"
+    }
+  },
+  "Saudi Arabia": {
+    "value": "SA",
+    "method": 4,
+    "governorates": {
+      "Riyadh": "Riyadh",
+      "Makkah": "Makkah",
+      "Madinah": "Madinah",
+      "Dammam": "Dammam",
+      "Buraydah": "Buraydah",
+      "Abha": "Abha",
+      "Tabuk": "Tabuk",
+      "Jazan": "Jazan",
+      "Najran": "Najran",
+      "Sakaka": "Sakaka"
+    }
+  },
+  "United Arab Emirates": {
+    "value": "AE",
+    "method": 16,
+    "governorates": {
+      "Abu Dhabi": "Abu Dhabi",
+      "Dubai": "Dubai",
+      "Sharjah": "Sharjah",
+      "Ajman": "Ajman",
+      "Ras Al Khaimah": "Ras Al Khaimah",
+      "Fujairah": "Fujairah"
+    }
+  },
+  "Morocco": {
+    "value": "MA",
+    "method": 3,
+    "governorates": {
+      "Rabat": "Rabat",
+      "Casablanca": "Casablanca",
+      "Marrakesh": "Marrakesh",
+      "Fez": "Fez",
+      "Tangier": "Tangier",
+      "Agadir": "Agadir"
+    }
+  },
+  "Algeria": {
+    "value": "DZ",
+    "method": 3,
+    "governorates": {
+      "Algiers": "Algiers",
+      "Oran": "Oran",
+      "Constantine": "Constantine",
+      "Annaba": "Annaba",
+      "Setif": "Setif"
+    }
+  },
+  "Jordan": {
+    "value": "JO",
+    "method": 3,
+    "governorates": {
+      "Amman": "Amman",
+      "Zarqa": "Zarqa",
+      "Irbid": "Irbid",
+      "Aqaba": "Aqaba"
+    }
+  },
+  "United States": {
+    "value": "US",
+    "method": 2,
+    "governorates": {
+      "New York": "New York",
+      "Los Angeles": "Los Angeles",
+      "Chicago": "Chicago",
+      "Houston": "Houston",
+      "Miami": "Miami",
+      "Philadelphia": "Philadelphia",
+      "Columbus": "Columbus",
+      "Atlanta": "Atlanta",
+      "Detroit": "Detroit"
+    }
+  },
+  "Canada": {
+    "value": "CA",
+    "method": 2,
+    "governorates": {
+      "Ottawa": "Ottawa",
+      "Toronto": "Toronto",
+      "Montreal": "Montreal",
+      "Vancouver": "Vancouver",
+      "Calgary": "Calgary",
+      "Winnipeg": "Winnipeg",
+      "Regina": "Regina",
+      "Halifax": "Halifax",
+      "Moncton": "Moncton"
+    }
+  },
+  "Italy": {
+    "value": "IT",
+    "method": 3,
+    "governorates": {
+      "Rome": "Rome",
+      "Milan": "Milan",
+      "Naples": "Naples",
+      "Turin": "Turin",
+      "Florence": "Florence",
+      "Venice": "Venice"
+    }
+  },
+  "France": {
+    "value": "FR",
+    "method": 12,
+    "governorates": {
+      "Paris": "Paris",
+      "Marseille": "Marseille",
+      "Lyon": "Lyon",
+      "Toulouse": "Toulouse",
+      "Nice": "Nice"
+    }
+  },
+  "Pakistan": {
+    "value": "PK",
+    "method": 1,
+    "governorates": {
+      "Islamabad": "Islamabad",
+      "Lahore": "Lahore",
+      "Karachi": "Karachi",
+      "Peshawar": "Peshawar",
+      "Quetta": "Quetta",
+      "Gilgit": "Gilgit"
+    }
+  },
+  "Qatar": {
+    "value": "QA",
+    "method": 4,
+    "governorates": {
+      "Doha": "Doha",
+      "Al Wakrah": "Al Wakrah"
+    }
+  },
+  "Kuwait": {
+    "value": "KW",
+    "method": 4,
+    "governorates": {
+      "Kuwait City": "Kuwait City",
+      "Hawalli": "Hawalli",
+      "Farwaniya": "Farwaniya"
+    }
+  },
+  "Bahrain": {
+    "value": "BH",
+    "method": 4,
+    "governorates": {
+      "Manama": "Manama",
+      "Muharraq": "Muharraq"
+    }
+  },
+  "Oman": {
+    "value": "OM",
+    "method": 4,
+    "governorates": {
+      "Muscat": "Muscat",
+      "Salalah": "Salalah",
+      "Sohar": "Sohar",
+      "Nizwa": "Nizwa"
+    }
+  }
+}

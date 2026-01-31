@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="node_modules/axios/dist/axios.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>Athan</title>
+</head>
+<body>
+    <div class="app">
+        <div class="info">
+            <div class="col">
+                <p>City: <span class="city"></span></p>
+                <p><span class="date"></span></p>
+            </div>
+            <div class="col">
+                <span class="time"></span>
+                <i class="fa-solid fa-gear settings-icon"></i>
+            </div>
+        </div>
+        <div class="next-athan">
+            <h3></h3>
+            <span></span>
+        </div>
+        <div class="timings">
+            <p>Fajr: <span class="fajr"></span></p>
+            <p>Sunrise: <span class="sunrise"></span></p>
+            <p>Dhuhr: <span class="dhuhr"></span></p>
+            <p>Asr: <span class="asr"></span></p>
+            <p>Maghrib: <span class="maghrib"></span></p>
+            <p>Isha: <span class="Isha"></span></p>
+        </div>
+    </div>
+    <div class="settings">
+        <i class="fa-solid fa-x close"></i>
+        <div class="main-settings">
+            <div class="col">
+                <h3>Location</h3>
+                <div class="group">
+                    <label for="city">
+                        <i class="fa-solid fa-globe"></i>
+                    </label>
+                    <select name="country" id="country"></select>
+                </div>
+                <div class="group">
+                    <label for="city">City</label>
+                    <select name="city" id="city"></select>
+                </div>
+            </div>
+            <div class="col">
+                <h3>Time Format</h3>
+                <div class="group">
+                    <div class="switch-container">
+                        <div class="label">
+                            <i class="fas fa-clock"></i> 12-Hour System
+                        </div>
+                        <label class="switch">
+                            <input type="checkbox">
+                            <span class="slider"></span>
+                        </label>    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button id="save">Save Changes</button>
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>
