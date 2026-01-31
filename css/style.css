@@ -49,6 +49,7 @@ body::after {
 @media (max-width:767px) {
     .app {
         margin: 20px auto 0;
+        padding: 25px;
         background-color: transparent;
         border: none;
         box-shadow: none;
@@ -72,6 +73,9 @@ body::after {
 @media (max-width:767px) {
     .app .date {
         display: none;
+    }
+    .app .col:nth-of-type(2) .time {
+        margin-right: 50px;
     }
 }
 .app .info i.settings-icon {
